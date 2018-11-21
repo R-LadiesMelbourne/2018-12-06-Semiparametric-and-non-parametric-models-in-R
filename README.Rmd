@@ -1,0 +1,19 @@
+---
+title: "Semiparametric and non parametric models in R"
+author: "Soroor Hediyeh Zadeh, University of Melbourne"
+date: "28th August 2018"
+output:
+  github_document:
+    toc: yes
+    toc_depth: 3
+  html_document:
+    toc: yes
+    toc_depth: 3
+linkcolor: magenta
+urlcolor: magenta
+---
+
+Repository contaning thr materials for the lunch seminar. 
+
+
+
